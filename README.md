@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on github and discord to bring new angle !!
 - 📫 How to reach me doggowannago
 
+- Starting with SQL(6/5/2021) in datacamp 
 <!---
 quangtrung950/quangtrung950 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
